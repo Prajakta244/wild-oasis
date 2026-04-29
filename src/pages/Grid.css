@@ -1,0 +1,16 @@
+.grid-item {
+  /* padding: 2rem; */
+  color: #fff;
+  /* font-weight: 700; */
+  text-align: center;
+  font-size: 40px;
+}
+
+.item-1 { background: #ff6b6b; }
+.item-2 { background: #f7c948; }
+.item-3 { background: #4ecdc4; }
+.item-4 { background: #5f27cd; }
+.item-5 { background: #10ac84; }
+.item-6 { background: #54a0ff; }
+.item-7 { background: #ff9ff3; }
+.item-8 { background: #341f97; }

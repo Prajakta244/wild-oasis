@@ -1,0 +1,9 @@
+regularPrice,discount,image,maxCapacity,id,name,description
+250,0,https://fvcpcnzjkupblhzayyuc.supabase.co/storage/v1/object/public/cabins/cabin-001.jpg,2,1,Cabin 001,"Cozy couple’s cabin with wood interiors, fireplace, and private hot tub deck."
+350,25,https://fvcpcnzjkupblhzayyuc.supabase.co/storage/v1/object/public/cabins/cabin-002.jpg,2,2,Cabin 002,"Cozy retreat for two with luxury finishes, fireplace, and hot tub deck."
+300,0,https://fvcpcnzjkupblhzayyuc.supabase.co/storage/v1/object/public/cabins/cabin-003.jpg,4,3,Cabin 003,"Family cabin for four with modern amenities and private hot tub deck."
+500,50,https://fvcpcnzjkupblhzayyuc.supabase.co/storage/v1/object/public/cabins/cabin-004.jpg,4,4,Cabin 004,"Luxury family cabin with gourmet kitchen and private hot tub deck."
+350,0,https://fvcpcnzjkupblhzayyuc.supabase.co/storage/v1/object/public/cabins/cabin-005.jpg,6,5,Cabin 005,"Spacious cabin for six with warm wood interiors and hot tub deck."
+800,100,https://fvcpcnzjkupblhzayyuc.supabase.co/storage/v1/object/public/cabins/cabin-006.jpg,6,6,Cabin 006,"Premium six-person cabin with gourmet kitchen and hot tub deck."
+600,100,https://fvcpcnzjkupblhzayyuc.supabase.co/storage/v1/object/public/cabins/cabin-007.jpg,8,7,Cabin 007,"Large group cabin with multiple living spaces and hot tub deck."
+1400,0,https://fvcpcnzjkupblhzayyuc.supabase.co/storage/v1/object/public/cabins/cabin-008.jpg,10,8,Cabin 008,"Grand ten-person cabin with luxury finishes and hot tub deck."
