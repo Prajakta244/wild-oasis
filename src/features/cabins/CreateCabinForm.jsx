@@ -107,7 +107,6 @@ const CreateCabinForm = ({cabinToEdit={},onModalClose}) => {
           disabled={isPending}
           defaultValue={0}
           {...register("discount",{
-          required:'This field is required',
           validate:(value) => {
             console.log(value <= getValues().regularPrice || 'Discount should be less than regular price')
             return Number(value) <= Number(getValues().regularPrice) || 'Discount should be less than regular price'
